@@ -70,8 +70,8 @@ This severely limits their usability in real‑world systems that require dynami
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/context-aware-rag-engine.git
-cd context-aware-rag-engine
+git clone https://github.com/supriya46788/Context-Aware-Retrieval-Augmented-Knowledge-Inference-Engine.git
+cd Context-Aware-Retrieval-Augmented-Knowledge-Inference-Engine
 ```
 
 ### 2️⃣ Create Virtual Environment
