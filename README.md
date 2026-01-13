@@ -1,4 +1,4 @@
-# Context-Aware Retrieval-Augmented Knowledge Inference Engine
+# Context-Aware Retrieval-Augmented Knowledge Inference Engine.
 
 A modern **Retrieval-Augmented Generation (RAG)** application built using **Google Gemini**, **LangChain**, **ChromaDB**, and **Gradio**.
 
